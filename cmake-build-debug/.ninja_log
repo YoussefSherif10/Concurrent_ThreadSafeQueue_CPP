@@ -1,0 +1,5 @@
+# ninja log v5
+0	513	1676098533709625542	CMakeFiles/threadSafeQueue.dir/main.cpp.o	3be388cb17352471
+513	562	1676098533761725936	threadSafeQueue	39aebcb10ddd0e7c
+2	307	1676098576108514728	CMakeFiles/threadSafeQueue.dir/main.cpp.o	3be388cb17352471
+307	341	1676098576144048839	threadSafeQueue	39aebcb10ddd0e7c
