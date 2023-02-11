@@ -1,0 +1,3 @@
+/Users/yousseffekry/Downloads/CS/threadSafeQueue/cmake-build-debug/CMakeFiles/threadSafeQueue.dir
+/Users/yousseffekry/Downloads/CS/threadSafeQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yousseffekry/Downloads/CS/threadSafeQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
